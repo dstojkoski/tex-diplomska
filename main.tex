@@ -1,0 +1,61 @@
+\documentclass[a4paper]{report}
+\input{Source files/setup}
+
+\newcommand{\UniversityName}
+    {Универзитет „Св. Кирил и Методиј“}
+\newcommand{\FacultyNameTwoLine}
+    {Факултет за информатички науки и \\ компјутерско инженерство}
+\newcommand{\FacultyName}
+    {Факултет за информатички науки и компјутерско инженерство}
+\newcommand{\ProjectType}
+    {дипломска работа}
+
+\newcommand{\ProjectTitle}
+    {Пристапи за симулација на колизија на меки тела}
+\newcommand{\ProjectMentor}
+    {проф. д-р Бобан Јоксимоски}
+\newcommand{\ProjectCandidate}
+    {Давид Стојкоски}
+\newcommand{\ProjectCandidateIndex}
+    {206029}
+\newcommand{\ProjectDate}
+    {мај 2026}
+
+
+
+\begin{document}
+
+    % Насловна страна
+    \input{Source files/00_titlepage}
+
+    \setlength{\parindent}{15pt}
+    \fontsize{12pt}{15pt}\selectfont
+    
+    % Апстракт
+    \input{Source files/01_abstract}
+
+    % Содржина
+    \newpage
+    \renewcommand{\contentsname}{\LARGE Содржина}
+    \tableofcontents
+
+    % Вовед
+    \input{Source files/02_introduction}
+
+    % Сродни истражувања
+    % \input{Source files/03_relatedwork}
+
+    % Методологија
+    \input{Source files/04_methodology}
+
+    % Резултати
+    \input{Source files/05_results}
+
+    % Заклучок
+    \input{Source files/06_conclusion}
+
+    % Библиографија
+    \input{Source files/bibliography}
+    
+
+\end{document}

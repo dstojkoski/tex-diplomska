@@ -1,0 +1,94 @@
+\begin{thebibliography}{10}
+
+\bibitem{Provot1995DeformationCI}
+Xavier Provot.
+\newblock Deformation constraints in a mass-spring model to describe rigid
+  cloth behavior.
+\newblock 1995.
+\newblock URL: \url{https://api.semanticscholar.org/CorpusID:12704543}.
+
+\bibitem{BaraffDavidWitkin1998}
+David Baraff and Andrew Witkin.
+\newblock Large steps in cloth simulation.
+\newblock In {\em Proceedings of the 25th Annual Conference on Computer
+  Graphics and Interactive Techniques}, SIGGRAPH '98, page 43–54, New York,
+  NY, USA, 1998. Association for Computing Machinery.
+\newblock \href {https://doi.org/10.1145/280814.280821}
+  {\path{doi:10.1145/280814.280821}}.
+
+\bibitem{pbd}
+Matthias M\"{u}ller, Bruno Heidelberger, Marcus Hennix, and John Ratcliff.
+\newblock Position based dynamics.
+\newblock {\em J. Vis. Comun. Image Represent.}, 18(2):109–118, April 2007.
+\newblock \href {https://doi.org/10.1016/j.jvcir.2007.01.005}
+  {\path{doi:10.1016/j.jvcir.2007.01.005}}.
+
+\bibitem{MullerAndGross}
+Matthias M\"{u}ller and Markus Gross.
+\newblock Interactive virtual materials.
+\newblock In {\em Proceedings of Graphics Interface 2004}, GI '04, page
+  239–246, Waterloo, CAN, 2004. Canadian Human-Computer Communications
+  Society.
+
+\bibitem{jakobsen2001advanced}
+Thomas Jakobsen.
+\newblock Advanced character physics.
+\newblock In {\em Game developers conference}, volume~3, pages 383--401. IO
+  Interactive, Copenhagen Denmark, 2001.
+
+\bibitem{ShapeMatching}
+Matthias M\"{u}ller, Bruno Heidelberger, Matthias Teschner, and Markus Gross.
+\newblock Meshless deformations based on shape matching.
+\newblock {\em ACM Trans. Graph.}, 24(3):471–478, July 2005.
+\newblock \href {https://doi.org/10.1145/1073204.1073216}
+  {\path{doi:10.1145/1073204.1073216}}.
+
+\bibitem{macklin2013position}
+Miles Macklin and Matthias M{\"u}ller.
+\newblock Position based fluids.
+\newblock {\em ACM Transactions on Graphics (TOG)}, 32(4):1--12, 2013.
+
+\bibitem{macklin2016xpbd}
+Miles Macklin, Matthias M{\"u}ller, and Nuttapong Chentanez.
+\newblock Xpbd: position-based simulation of compliant constrained dynamics.
+\newblock In {\em Proceedings of the 9th International Conference on Motion in
+  Games}, pages 49--54, 2016.
+
+\bibitem{hahn1988realistic}
+James~K Hahn.
+\newblock Realistic animation of rigid bodies.
+\newblock {\em ACM Siggraph computer graphics}, 22(4):299--308, 1988.
+
+\bibitem{muller2020detailed}
+Matthias M{\"u}ller, Miles Macklin, Nuttapong Chentanez, Stefan Jeschke, and
+  Tae-Yong Kim.
+\newblock Detailed rigid body simulation with extended position based dynamics.
+\newblock In {\em Computer graphics forum}, volume~39, pages 101--112. Wiley
+  Online Library, 2020.
+
+\bibitem{teschner2003optimized}
+Matthias Teschner, Bruno Heidelberger, Matthias M{\"u}ller, Danat Pomerantes,
+  and Markus~H Gross.
+\newblock Optimized spatial hashing for collision detection of deformable
+  objects.
+\newblock In {\em Vmv}, volume~3, pages 47--54, 2003.
+
+\bibitem{larsson2001collision}
+Thomas Larsson and Tomas Akenine-M{\"o}ller.
+\newblock Collision detection for continuously deforming bodies.
+\newblock In {\em Eurographics (short presentations)}, 2001.
+
+\bibitem{bridson2002robust}
+Robert Bridson, Ronald Fedkiw, and John Anderson.
+\newblock Robust treatment of collisions, contact and friction for cloth
+  animation.
+\newblock In {\em Proceedings of the 29th annual conference on Computer
+  graphics and interactive techniques}, pages 594--603, 2002.
+
+\bibitem{tetgen}
+Hang Si.
+\newblock Tetgen, a delaunay-based quality tetrahedral mesh generator.
+\newblock {\em ACM Trans. Math. Softw.}, 41(2), February 2015.
+\newblock \href {https://doi.org/10.1145/2629697} {\path{doi:10.1145/2629697}}.
+
+\end{thebibliography}
