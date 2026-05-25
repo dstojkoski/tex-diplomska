@@ -21,17 +21,6 @@ INPUT /usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty
 INPUT /usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty
 INPUT /usr/share/texmf-dist/tex/generic/iftex/iftex.sty
 INPUT /usr/share/texmf-dist/tex/generic/iftex/iftex.sty
-INPUT /usr/share/texmf-dist/tex/generic/babel/babel.sty
-INPUT /usr/share/texmf-dist/tex/generic/babel/babel.sty
-INPUT /usr/share/texmf-dist/tex/generic/babel/xebabel.def
-INPUT /usr/share/texmf-dist/tex/generic/babel/locale/und/babel-und-x-nil.ini
-INPUT /usr/share/texmf-dist/tex/generic/babel/nil.ldf
-INPUT /usr/share/texmf-dist/tex/generic/babel/nil.ldf
-INPUT /usr/share/texmf-dist/tex/generic/babel/nil.ldf
-INPUT /usr/share/texmf-dist/tex/generic/babel/locale/mk/babel-macedonian.tex
-INPUT /usr/share/texmf-dist/tex/generic/babel/locale/mk/babel-macedonian.tex
-INPUT /usr/share/texmf-dist/tex/generic/babel/locale/mk/babel-macedonian.tex
-INPUT /usr/share/texmf-dist/tex/generic/babel/locale/mk/babel-mk.ini
 INPUT /usr/share/texmf-dist/tex/latex/parskip/parskip.sty
 INPUT /usr/share/texmf-dist/tex/latex/parskip/parskip.sty
 INPUT /usr/share/texmf-dist/tex/latex/kvoptions/kvoptions.sty
@@ -319,10 +308,34 @@ INPUT /usr/share/texmf-dist/tex/latex/base/fontenc.sty
 INPUT /usr/share/texmf-dist/tex/latex/fontspec/fontspec.cfg
 INPUT /usr/share/texmf-dist/tex/latex/fontspec/fontspec.cfg
 INPUT /usr/share/texmf-dist/tex/latex/fontspec/fontspec.cfg
+INPUT /usr/share/texmf-dist/tex/latex/polyglossia/polyglossia.sty
+INPUT /usr/share/texmf-dist/tex/latex/polyglossia/polyglossia.sty
+INPUT /usr/share/texmf-dist/tex/latex/polyglossia/gloss-latex.ldf
+INPUT /usr/share/texmf-dist/tex/latex/polyglossia/gloss-latex.ldf
+INPUT /usr/share/texmf-dist/tex/latex/polyglossia/gloss-macedonian.ldf
+INPUT /usr/share/texmf-dist/tex/latex/polyglossia/gloss-macedonian.ldf
+INPUT /usr/share/texmf-dist/tex/latex/microtype/microtype.sty
+INPUT /usr/share/texmf-dist/tex/latex/microtype/microtype.sty
+INPUT /usr/share/texmf-dist/tex/latex/microtype/microtype-xetex.def
+INPUT /usr/share/texmf-dist/tex/latex/microtype/microtype-xetex.def
+INPUT /usr/share/texmf-dist/tex/latex/microtype/microtype-xetex.def
+INPUT /usr/share/texmf-dist/tex/latex/microtype/microtype.cfg
+INPUT /usr/share/texmf-dist/tex/latex/microtype/microtype.cfg
+INPUT /usr/share/texmf-dist/tex/latex/microtype/microtype.cfg
 INPUT /usr/share/texmf-dist/tex/latex/tools/tabularx.sty
 INPUT /usr/share/texmf-dist/tex/latex/tools/tabularx.sty
 INPUT /usr/share/texmf-dist/tex/latex/booktabs/booktabs.sty
 INPUT /usr/share/texmf-dist/tex/latex/booktabs/booktabs.sty
+INPUT /usr/share/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
+INPUT /usr/share/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
+INPUT /usr/share/texmf-dist/tex/latex/base/ifthen.sty
+INPUT /usr/share/texmf-dist/tex/latex/base/ifthen.sty
+INPUT /usr/share/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+INPUT /usr/share/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+INPUT /usr/share/texmf-dist/tex/latex/tools/xspace.sty
+INPUT /usr/share/texmf-dist/tex/latex/tools/xspace.sty
+INPUT /usr/share/texmf-dist/tex/latex/relsize/relsize.sty
+INPUT /usr/share/texmf-dist/tex/latex/relsize/relsize.sty
 INPUT /usr/share/texmf-dist/tex/latex/titlesec/titlesec.sty
 INPUT /usr/share/texmf-dist/tex/latex/titlesec/titlesec.sty
 INPUT ./main.aux
@@ -336,6 +349,9 @@ INPUT main.out
 INPUT ./main.out
 INPUT ./main.out
 OUTPUT main.out
+INPUT /usr/share/texmf-dist/tex/latex/microtype/mt-NewComputerModern.cfg
+INPUT /usr/share/texmf-dist/tex/latex/microtype/mt-NewComputerModern.cfg
+INPUT /usr/share/texmf-dist/tex/latex/microtype/mt-NewComputerModern.cfg
 INPUT ./Source files/00_titlepage.tex
 INPUT ./Source files/00_titlepage.tex
 INPUT ./Source files/00_titlepage.tex
@@ -366,15 +382,24 @@ INPUT /usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 INPUT /usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 INPUT /usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /usr/share/texmf-dist/tex/latex/microtype/mt-msa.cfg
+INPUT /usr/share/texmf-dist/tex/latex/microtype/mt-msa.cfg
+INPUT /usr/share/texmf-dist/tex/latex/microtype/mt-msa.cfg
 INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
 INPUT /usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 INPUT /usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 INPUT /usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /usr/share/texmf-dist/tex/latex/microtype/mt-msb.cfg
+INPUT /usr/share/texmf-dist/tex/latex/microtype/mt-msb.cfg
+INPUT /usr/share/texmf-dist/tex/latex/microtype/mt-msb.cfg
 INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/share/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+INPUT /usr/share/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+INPUT /usr/share/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
 OUTPUT main.toc
@@ -396,18 +421,6 @@ INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
-INPUT ./Miscellaneous/incremental-sfm.png
-INPUT ./Miscellaneous/incremental-sfm.png
-INPUT ./Miscellaneous/incremental-sfm.png
-INPUT ./Miscellaneous/epipolar-geometry.jpg
-INPUT ./Miscellaneous/epipolar-geometry.jpg
-INPUT ./Miscellaneous/epipolar-geometry.jpg
-INPUT ./Miscellaneous/nerf-optimization-comparison.png
-INPUT ./Miscellaneous/nerf-optimization-comparison.png
-INPUT ./Miscellaneous/nerf-optimization-comparison.png
-INPUT ./Miscellaneous/nerf-tek.png
-INPUT ./Miscellaneous/nerf-tek.png
-INPUT ./Miscellaneous/nerf-tek.png
 INPUT ./Source files/05_results.tex
 INPUT ./Source files/05_results.tex
 INPUT ./Source files/05_results.tex

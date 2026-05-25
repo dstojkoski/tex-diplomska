@@ -8,15 +8,11 @@ Reallocated glb_str_end (elt_size=8) to 20 items from 10.
 Reallocated singl_function (elt_size=8) to 100 items from 50.
 Reallocated singl_function (elt_size=8) to 100 items from 50.
 Database file #1: refs.bib
-Warning--I didn't find a database entry for "schonberger2016structure"
-Warning--I didn't find a database entry for "hartley2003multiple"
-Warning--I didn't find a database entry for "mildenhall2021nerf"
-Warning--I didn't find a database entry for "mildenhall2020nerf"
 Warning--empty booktitle in Provot1995DeformationCI
 Warning--can't use both volume and number fields in muller2020detailed
 You've used 14 entries,
             2616 wiz_defined-function locations,
-            696 strings with 7512 characters,
+            692 strings with 7433 characters,
 and the built_in function-call counts, 5947 in all, are:
 = -- 629
 > -- 151
@@ -55,4 +51,4 @@ warning$ -- 2
 while$ -- 37
 width$ -- 16
 write$ -- 174
-(There were 6 warnings)
+(There were 2 warnings)

@@ -1,4 +1,4 @@
-\babel@toc {macedonian}{}\relax 
+\xpg@aux {}{macedonian}
 \contentsline {chapter}{\numberline {1}Вовед}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Мотивација}{1}{section.1.1}%
 \contentsline {section}{\numberline {1.2}Проблемот на колизии за деформабилни тела}{2}{section.1.2}%
@@ -11,28 +11,28 @@
 \contentsline {subsection}{\numberline {2.1.4}Динамика базирана на позиции (Position-Based Dynamics)}{6}{subsection.2.1.4}%
 \contentsline {subsection}{\numberline {2.1.5}Проширена диманика базирана на позиции (Extended PBD)}{7}{subsection.2.1.5}%
 \contentsline {section}{\numberline {2.2}Историја на методи базирани на позиција}{7}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Техники на колизии во физички симулации}{9}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}Тврди наспроти меки тела}{9}{subsection.2.3.1}%
+\contentsline {section}{\numberline {2.3}Техники на колизии во физички симулации}{8}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Тврди наспроти меки тела}{8}{subsection.2.3.1}%
 \contentsline {subsection}{\numberline {2.3.2}Дискретна наспроти континуирана детекција}{9}{subsection.2.3.2}%
-\contentsline {subsection}{\numberline {2.3.3}Парадигми за реакција на колизија}{10}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.3}Парадигми за реакција на колизија}{9}{subsection.2.3.3}%
 \contentsline {subsection}{\numberline {2.3.4}Пристапи за само-судир}{10}{subsection.2.3.4}%
-\contentsline {chapter}{\numberline {3}Математички и физички основи}{12}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Њутново движење и временско интегрирање}{12}{section.3.1}%
-\contentsline {subsection}{\numberline {3.1.1}Експлицитен (forward) Ojлер}{12}{subsection.3.1.1}%
-\contentsline {subsection}{\numberline {3.1.2}Симплектички(полуимплицитен) Ојлеров метод}{13}{subsection.3.1.2}%
-\contentsline {subsection}{\numberline {3.1.3}Верлеова интеграција}{13}{subsection.3.1.3}%
+\contentsline {chapter}{\numberline {3}Математички и физички основи}{11}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Њутново движење и временско интегрирање}{11}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Експлицитен (forward) Ojлер}{11}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Симплектички(полуимплицитен) Ојлеров метод}{12}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}Верлеова интеграција}{12}{subsection.3.1.3}%
 \contentsline {section}{\numberline {3.2}Динамика заснована на ограничувања (Constraint-based dynamics)}{13}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}Ограничувања}{14}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.2.2}Лагранжови множители}{14}{subsection.3.2.2}%
-\contentsline {subsection}{\numberline {3.2.3}Гаус-Сајделова итерација}{14}{subsection.3.2.3}%
-\contentsline {section}{\numberline {3.3}XPBD формулацијата}{15}{section.3.3}%
-\contentsline {subsection}{\numberline {3.3.1}Усогласеност (compliance)}{15}{subsection.3.3.1}%
-\contentsline {subsection}{\numberline {3.3.2}Терминот alpha}{15}{subsection.3.3.2}%
-\contentsline {subsection}{\numberline {3.3.3}Акумулиран Лагранж мултипликатор}{15}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.2.1}Ограничувања}{13}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Лагранжови множители}{13}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Гаус-Сајделова итерација}{13}{subsection.3.2.3}%
+\contentsline {section}{\numberline {3.3}XPBD формулацијата}{14}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Усогласеност (compliance)}{14}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Терминот alpha}{14}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Акумулиран Лагранж мултипликатор}{14}{subsection.3.3.3}%
 \contentsline {subsection}{\numberline {3.3.4}Ажурирањето по итерација}{15}{subsection.3.3.4}%
-\contentsline {subsection}{\numberline {3.3.5}Ажурирање на брзината}{16}{subsection.3.3.5}%
-\contentsline {subsection}{\numberline {3.3.6}Зошто функционира цврстината независна од итерацијата}{16}{subsection.3.3.6}%
-\contentsline {subsection}{\numberline {3.3.7}Потчекори наспроти итерации}{16}{subsection.3.3.7}%
+\contentsline {subsection}{\numberline {3.3.5}Ажурирање на брзината}{15}{subsection.3.3.5}%
+\contentsline {subsection}{\numberline {3.3.6}Зошто функционира цврстината независна од итерацијата}{15}{subsection.3.3.6}%
+\contentsline {subsection}{\numberline {3.3.7}Потчекори наспроти итерации}{15}{subsection.3.3.7}%
 \contentsline {chapter}{\numberline {4}Модел на меко тело}{17}{chapter.4}%
 \contentsline {subsection}{\numberline {4.0.1}Зошто празна обвивка не може да симулира меко тело}{17}{subsection.4.0.1}%
 \contentsline {subsection}{\numberline {4.0.2}Тетраедрализација (tetrahedralization)}{17}{subsection.4.0.2}%
@@ -45,6 +45,13 @@
 \contentsline {subsection}{\numberline {4.3.1}Дедупликација}{20}{subsection.4.3.1}%
 \contentsline {subsection}{\numberline {4.3.2}Ограничување и градиент}{20}{subsection.4.3.2}%
 \contentsline {subsection}{\numberline {4.3.3}Чекор во решавач}{21}{subsection.4.3.3}%
-\contentsline {subsection}{\numberline {4.3.4}}{21}{subsection.4.3.4}%
-\contentsline {chapter}{\numberline {5}Rest}{22}{chapter.5}%
-\contentsline {chapter}{\numberline {6}Заклучок}{24}{chapter.6}%
+\contentsline {subsection}{\numberline {4.3.4}Ограничување на површински рабови}{21}{subsection.4.3.4}%
+\contentsline {subsection}{\numberline {4.3.5}Однесување и нагодување}{22}{subsection.4.3.5}%
+\contentsline {section}{\numberline {4.4}Волуменски ограничувања}{22}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Скаларен троен производ}{22}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Градиенти}{22}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}Чекор во решавачот}{23}{subsection.4.4.3}%
+\contentsline {subsection}{\numberline {4.4.4}Инверзија и дегенерација}{23}{subsection.4.4.4}%
+\contentsline {subsection}{\numberline {4.4.5}Сооднос од 0.1 за усогласување}{23}{subsection.4.4.5}%
+\contentsline {section}{\numberline {4.5}Циклусот на XPBD решавачот}{23}{section.4.5}%
+\contentsline {chapter}{\numberline {5}Заклучок}{25}{chapter.5}%

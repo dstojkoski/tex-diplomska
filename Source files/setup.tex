@@ -1,7 +1,7 @@
 \usepackage[top=2.5cm, bottom=3.5cm, left=2.5cm, right=2.5cm]{geometry}
 %\usepackage[utf8]{inputenc}
-\usepackage{babel}
-\babelprovide[import, main]{macedonian}
+%\usepackage{babel}
+%\babelprovide[import, main]{macedonian}
 \usepackage[parfill]{parskip}
 \usepackage{graphicx}
 \usepackage{amssymb}
@@ -24,21 +24,28 @@
 
 \usepackage{fontspec}
 \setmainfont{CMU Serif}
+% CMU Serif has no monospace member installed, and the default Latin Modern
+% Mono lacks Cyrillic, which makes polyglossia (Macedonian) abort on any
+% monospace Cyrillic (e.g. \path/\url in the bibliography). Use a mono font
+% with Cyrillic coverage instead.
+\setmonofont{Liberation Mono}
+\usepackage{polyglossia}
+\setmainlanguage{macedonian}
+% TeX ships no Macedonian hyphenation patterns, so polyglossia falls back to
+% \l@nohyphenation and every word becomes unbreakable -> overfull lines.
+% Borrow Serbian Cyrillic patterns (closest match: shares ј љ њ џ and similar
+% syllabic break rules) for the Macedonian language register.
+\makeatletter
+\expandafter\let\expandafter\l@macedonian\csname l@serbianc\endcsname
+\makeatother
+\usepackage[protrusion=true, final]{microtype}
+% Last-resort slack for lines hyphenation still can't break cleanly.
+\setlength{\emergencystretch}{3em}
 \usepackage{tabularx}
 \usepackage{booktabs}
-% \usepackage{bm}
-% \usepackage{mathtools}
-% \usepackage{subcaption}
-% \usepackage[affil-it]{authblk}
-% \usepackage{url}
-% \usepackage{float}
-% \usepackage{tcolorbox}
-% \usepackage{algorithm}
-% \usepackage{algpseudocode}
-% \usepackage{enumitem}
-% \usepackage{textcomp}
-% \usepackage{hyphenat}
-% \usepackage{datetime}
+\usepackage[linesnumbered, ruled, vlined]{algorithm2e}
+\usepackage{amsmath}
+
 
 
 \pagestyle{fancy}
@@ -46,7 +53,7 @@
 \fancyfoot[C]{\large \thepage}
 \renewcommand{\headrulewidth}{0pt}
 \setlength{\footskip}{15mm}
-
+\newcommand{\emk}{ѐ} 
 
 \lstset{
   basicstyle=\ttfamily\small,
