@@ -110,4 +110,15 @@ Jonathan~D. Cohen, Ming~C. Lin, Dinesh Manocha, and Madhav Ponamgi.
 \newblock \href {https://doi.org/10.1145/199404.199437}
   {\path{doi:10.1145/199404.199437}}.
 
+\bibitem{ericson2004real}
+Christer Ericson.
+\newblock {\em Real-time collision detection}.
+\newblock Crc Press, 2004.
+
+\bibitem{baerentzen2005signed}
+Jakob~Andreas B{\ae}rentzen and Henrik Aanaes.
+\newblock Signed distance computation using the angle weighted pseudonormal.
+\newblock {\em IEEE Transactions on Visualization and Computer Graphics},
+  11(3):243--253, 2005.
+
 \end{thebibliography}

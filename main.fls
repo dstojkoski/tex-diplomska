@@ -336,6 +336,35 @@ INPUT /usr/share/texmf-dist/tex/latex/tools/xspace.sty
 INPUT /usr/share/texmf-dist/tex/latex/tools/xspace.sty
 INPUT /usr/share/texmf-dist/tex/latex/relsize/relsize.sty
 INPUT /usr/share/texmf-dist/tex/latex/relsize/relsize.sty
+INPUT /usr/share/texmf-dist/tex/latex/svg/svg.sty
+INPUT /usr/share/texmf-dist/tex/latex/svg/svg.sty
+INPUT /usr/share/texmf-dist/tex/latex/koma-script/scrbase.sty
+INPUT /usr/share/texmf-dist/tex/latex/koma-script/scrbase.sty
+INPUT /usr/share/texmf-dist/tex/latex/koma-script/scrlfile.sty
+INPUT /usr/share/texmf-dist/tex/latex/koma-script/scrlfile.sty
+INPUT /usr/share/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+INPUT /usr/share/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+INPUT /usr/share/texmf-dist/tex/latex/koma-script/scrlogo.sty
+INPUT /usr/share/texmf-dist/tex/latex/koma-script/scrlogo.sty
+INPUT /usr/share/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+INPUT /usr/share/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+INPUT /usr/share/texmf-dist/tex/latex/tools/shellesc.sty
+INPUT /usr/share/texmf-dist/tex/latex/tools/shellesc.sty
+INPUT /usr/share/texmf-dist/tex/latex/ifplatform/ifplatform.sty
+INPUT /usr/share/texmf-dist/tex/latex/ifplatform/ifplatform.sty
+INPUT /usr/share/texmf-dist/tex/generic/catchfile/catchfile.sty
+INPUT /usr/share/texmf-dist/tex/generic/catchfile/catchfile.sty
+INPUT /usr/share/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+INPUT /usr/share/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+INPUT /usr/share/texmf-dist/tex/generic/iftex/ifluatex.sty
+INPUT /usr/share/texmf-dist/tex/generic/iftex/ifluatex.sty
+INPUT ./main.w18
+INPUT ./main.w18
+INPUT main.w18
+INPUT /usr/share/texmf-dist/tex/latex/transparent/transparent.sty
+INPUT /usr/share/texmf-dist/tex/latex/transparent/transparent.sty
+INPUT /usr/share/texmf-dist/tex/latex/transparent/transparent-nometadata.sty
+INPUT /usr/share/texmf-dist/tex/latex/transparent/transparent-nometadata.sty
 INPUT /usr/share/texmf-dist/tex/latex/titlesec/titlesec.sty
 INPUT /usr/share/texmf-dist/tex/latex/titlesec/titlesec.sty
 INPUT ./main.aux
@@ -426,6 +455,16 @@ INPUT ./Source files/05_collision.tex
 INPUT ./Source files/05_collision.tex
 INPUT ./Source files/05_collision.tex
 INPUT Source files/05_collision.tex
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex9.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
+INPUT ./template/sd_crop.pdf
+INPUT ./template/sd_crop.pdf
+INPUT ./template/discont.pdf
+INPUT ./template/discont.pdf
 INPUT ./Source files/05_results.tex
 INPUT ./Source files/05_results.tex
 INPUT ./Source files/05_results.tex

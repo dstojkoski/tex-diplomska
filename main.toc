@@ -56,4 +56,14 @@
 \contentsline {section}{\numberline {4.5}Циклусот на XPBD решавачот}{23}{section.4.5}%
 \contentsline {chapter}{\numberline {5}Техники за детекција на колизии}{25}{chapter.5}%
 \contentsline {section}{\numberline {5.1}Забрзување во широка фаза (broad-phase acceleration)}{25}{section.5.1}%
-\contentsline {chapter}{\numberline {6}Заклучок}{27}{chapter.6}%
+\contentsline {subsection}{\numberline {5.1.1}BVH за статични мрежи}{26}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}Просторен хаш за површината на деформирачкото меко тело}{27}{subsection.5.1.2}%
+\contentsline {section}{\numberline {5.2}Тесна фаза: аналитички примитиви}{28}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}SDF апстракција}{28}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}SDF сфера}{29}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}Тесна фаза: колизија на триаголник и мрежа}{29}{subsection.5.2.3}%
+\contentsline {subsection}{\numberline {5.2.4}Најблиска точка на триаголник (Воронои метод)}{29}{subsection.5.2.4}%
+\contentsline {subsection}{\numberline {5.2.5}Проблем на дисконтинуитет на знак}{30}{subsection.5.2.5}%
+\contentsline {subsection}{\numberline {5.2.6}Псевдо-нормали}{30}{subsection.5.2.6}%
+\contentsline {subsection}{\numberline {5.2.7}Резултат}{31}{subsection.5.2.7}%
+\contentsline {chapter}{\numberline {6}Заклучок}{32}{chapter.6}%
