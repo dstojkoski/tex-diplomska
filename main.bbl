@@ -91,4 +91,23 @@ Hang Si.
 \newblock {\em ACM Trans. Math. Softw.}, 41(2), February 2015.
 \newblock \href {https://doi.org/10.1145/2629697} {\path{doi:10.1145/2629697}}.
 
+\bibitem{sweep}
+David Baraff and Andrew Witkin.
+\newblock Dynamic simulation of non-penetrating flexible bodies.
+\newblock In {\em Proceedings of the 19th Annual Conference on Computer
+  Graphics and Interactive Techniques}, SIGGRAPH '92, page 303–308, New York,
+  NY, USA, 1992. Association for Computing Machinery.
+\newblock \href {https://doi.org/10.1145/133994.134084}
+  {\path{doi:10.1145/133994.134084}}.
+
+\bibitem{cohenSweep}
+Jonathan~D. Cohen, Ming~C. Lin, Dinesh Manocha, and Madhav Ponamgi.
+\newblock I-collide: an interactive and exact collision detection system for
+  large-scale environments.
+\newblock In {\em Proceedings of the 1995 Symposium on Interactive 3D
+  Graphics}, I3D '95, page 189–ff., New York, NY, USA, 1995. Association for
+  Computing Machinery.
+\newblock \href {https://doi.org/10.1145/199404.199437}
+  {\path{doi:10.1145/199404.199437}}.
+
 \end{thebibliography}

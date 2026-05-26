@@ -10,45 +10,45 @@ Reallocated singl_function (elt_size=8) to 100 items from 50.
 Database file #1: refs.bib
 Warning--empty booktitle in Provot1995DeformationCI
 Warning--can't use both volume and number fields in muller2020detailed
-You've used 14 entries,
+You've used 16 entries,
             2616 wiz_defined-function locations,
-            692 strings with 7433 characters,
-and the built_in function-call counts, 5947 in all, are:
-= -- 629
-> -- 151
-< -- 10
-+ -- 50
-- -- 36
-* -- 275
-:= -- 734
-add.period$ -- 51
-call.type$ -- 14
-change.case$ -- 14
+            709 strings with 7983 characters,
+and the built_in function-call counts, 7121 in all, are:
+= -- 777
+> -- 175
+< -- 12
++ -- 58
+- -- 42
+* -- 318
+:= -- 860
+add.period$ -- 61
+call.type$ -- 16
+change.case$ -- 16
 chr.to.int$ -- 0
-cite$ -- 16
-duplicate$ -- 228
-empty$ -- 650
-format.name$ -- 36
-if$ -- 1694
+cite$ -- 18
+duplicate$ -- 290
+empty$ -- 756
+format.name$ -- 42
+if$ -- 2040
 int.to.chr$ -- 0
-int.to.str$ -- 14
-missing$ -- 14
-newline$ -- 78
-num.names$ -- 14
-pop$ -- 120
+int.to.str$ -- 16
+missing$ -- 16
+newline$ -- 90
+num.names$ -- 16
+pop$ -- 136
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 485
+skip$ -- 604
 stack$ -- 0
-substring$ -- 279
-swap$ -- 107
-text.length$ -- 18
+substring$ -- 319
+swap$ -- 151
+text.length$ -- 24
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 2
-while$ -- 37
-width$ -- 16
-write$ -- 174
+while$ -- 41
+width$ -- 18
+write$ -- 206
 (There were 2 warnings)

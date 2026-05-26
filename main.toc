@@ -54,4 +54,6 @@
 \contentsline {subsection}{\numberline {4.4.4}Инверзија и дегенерација}{23}{subsection.4.4.4}%
 \contentsline {subsection}{\numberline {4.4.5}Сооднос од 0.1 за усогласување}{23}{subsection.4.4.5}%
 \contentsline {section}{\numberline {4.5}Циклусот на XPBD решавачот}{23}{section.4.5}%
-\contentsline {chapter}{\numberline {5}Заклучок}{25}{chapter.5}%
+\contentsline {chapter}{\numberline {5}Техники за детекција на колизии}{25}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Забрзување во широка фаза (broad-phase acceleration)}{25}{section.5.1}%
+\contentsline {chapter}{\numberline {6}Заклучок}{27}{chapter.6}%

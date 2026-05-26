@@ -421,6 +421,11 @@ INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
+INPUT ./Source files/05_collision.tex
+INPUT ./Source files/05_collision.tex
+INPUT ./Source files/05_collision.tex
+INPUT ./Source files/05_collision.tex
+INPUT Source files/05_collision.tex
 INPUT ./Source files/05_results.tex
 INPUT ./Source files/05_results.tex
 INPUT ./Source files/05_results.tex
